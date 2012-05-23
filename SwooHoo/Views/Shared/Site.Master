@@ -18,7 +18,7 @@
     <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.9.0/build/reset/reset-min.css" /><!-- YUI Reset for all elements -->
     <link rel="stylesheet" type="text/css" href="/content/styles/boxes.css" /><!-- Box Framework -->
     <link rel="stylesheet" type="text/css" href="/content/styles/screen.css" /><!-- Core Styles -->
-    <link rel="stylesheet" type="text/css" href="/content/styles/ResponsiveBoxes.css" /><!-- Responsiveness -->
+    <link rel="stylesheet" type="text/css" href="/content/styles/responsiveboxes.css" /><!-- Responsiveness -->
     
     <!-- UI Enhancements -->
     <link rel="stylesheet" type="text/css" href="/styles/slimbox2.css" /><!-- SlimBox v2 -->
