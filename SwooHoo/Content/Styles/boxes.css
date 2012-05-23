@@ -1,0 +1,72 @@
+﻿/* 
+    BOXES.css 
+    =====================================================================
+
+    Super Simple Responsive row/column framework definitions
+    @@ Probably not the 'accepted' way of doing things - works for me ;)
+
+    Author:
+    Steven Woods - steve@swoo.co.uk
+    USE AS YOU LIKE, NO WARRANTY IMPLIED OR GIVEN.
+
+    Last updated:   23rd May 2012
+
+    =====================================================================
+*/
+
+.row {
+    clear:  both;   
+}
+
+.col {
+    float:  left;   
+}
+
+
+.col10 {
+    width:      10%;   
+}
+
+.col20 {
+    width:      20%;   
+}
+
+.col25 {
+    width:      25%;   
+}
+
+.col30 {
+    width:      30%;   
+}
+
+.col40 {
+    width:      40%;   
+}
+
+.col50 {
+    width:      50%;   
+}
+
+.col60 {
+    width:      60%;   
+}
+
+.col70 {
+    width:      70%;   
+}
+
+.col75 {
+    width:      75%;   
+}
+
+.col80 {
+    width:      80%;   
+}
+
+.col90 {
+    width:      90%;   
+}
+
+.col100 {
+    width:      100%;   
+}

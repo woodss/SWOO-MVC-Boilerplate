@@ -1,0 +1,62 @@
+﻿/* Layouts smaller than 600px, iPhone and mobiles */
+@media handheld and (max-width: 480px), screen and (max-device-width: 480px), screen and (max-width: 600px)  {
+    .container {
+	    width:              100%;   
+	}
+	
+	.logo {
+	    width:              100%;   
+	}
+	
+    .logo img {
+	    width:              100%;    
+	}
+	
+	.logosubsection {
+	    width:              100%;   
+	}
+	
+	.navigation ul li {
+	    width:      100%;
+	    border-bottom:  1px solid #fff;   
+	}
+	
+	.sidebar {
+	    float:      right;  /* Makes the sidebar navigation go to the end of the document */   
+	}
+}
+
+/* LAYOUTS LARGER THAN 920px */
+@media screen and (min-width: 920px) {
+	.container {
+	    width:              960px;   
+	}
+	
+    .logo img {
+	    width:              100%;    
+	}
+}
+
+/* LARGE SCREENS */
+@media screen and (min-width: 1350px) {
+    .container {
+        width:          1300px;
+    }
+}
+
+/* IPAD */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+    .container {
+	    width:              100%;   
+	}
+	
+    .logo img {
+	    width:              100%;    
+	}
+}
+
+
+
+
+
+/* -------------------------------------- */
